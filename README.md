@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 ## String
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0015-3sum) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
