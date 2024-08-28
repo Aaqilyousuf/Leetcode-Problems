@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0367-valid-perfect-square](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0046-permutations) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
