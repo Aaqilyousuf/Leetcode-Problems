@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3533-snake-in-matrix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3533-snake-in-matrix) |
 ## Array
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1325-path-with-maximum-probability](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3533-snake-in-matrix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3533-snake-in-matrix) |
 ## Two Pointers
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
