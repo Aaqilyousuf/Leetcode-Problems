@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Prefix Sum
 |  |
