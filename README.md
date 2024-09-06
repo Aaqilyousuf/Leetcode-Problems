@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0739-daily-temperatures](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0906-walking-robot-simulation](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
