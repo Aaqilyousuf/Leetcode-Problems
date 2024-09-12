@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0463-island-perimeter) |
+| [0605-can-place-flowers](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0792-binary-search) |
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
