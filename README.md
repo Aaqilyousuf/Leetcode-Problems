@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0883-car-fleet) |
 | [0906-walking-robot-simulation](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0906-walking-robot-simulation) |
+| [1019-squares-of-a-sorted-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1325-path-with-maximum-probability](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [1019-squares-of-a-sorted-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0883-car-fleet](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0883-car-fleet) |
+| [1019-squares-of-a-sorted-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## String Matching
 |  |
 | ------- |
