@@ -5,17 +5,16 @@ class Solution:
         res = []
         
         while i >= 0 or j >= 0 or carry:
-            total = 0
+            total = carry  # Start with carry
             
             if i >= 0:
-                total += ord(num1[i]) - ord('0')  # Convert character to integer
+                total += int(num1[i])
                 i -= 1
                 
             if j >= 0:
-                total += ord(num2[j]) - ord('0')
+                total += int(num2[j])
                 j -= 1
-                
-            total += carry
+            
             carry = total // 10
             res.append(str(total % 10))
         
