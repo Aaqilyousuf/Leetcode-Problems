@@ -1,20 +1,9 @@
+
+
 class Solution:
-	def pivotArray(self, nums: List[int], pivot: int) -> List[int]:
+    def pivotArray(self, nums: List[int], pivot: int) -> List[int]:
+        lessThan = [x for x in nums if x < pivot]
+        equal = [x for x in nums if x == pivot]
+        greater = [x for x in nums if x > pivot]
 
-		ans=[]
-
-		nums.remove(pivot)
-
-		i=0
-		ans.append(pivot)
-
-		for j in nums:
-			if j<pivot:
-				ans.insert(i,j)
-				i=i+1
-			elif j==pivot:
-				ans.insert(i+1,j)
-			else:
-				ans.append(j)
-
-		return ans
+        return lessThan + equal + greater
