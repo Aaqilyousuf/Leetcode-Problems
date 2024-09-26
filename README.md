@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -237,4 +239,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
