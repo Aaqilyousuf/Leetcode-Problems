@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0859-design-circular-deque](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0860-design-circular-queue) |
+| [0969-number-of-recent-calls](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1582-design-browser-history) |
 ## Queue
 |  |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0860-design-circular-queue) |
+| [0969-number-of-recent-calls](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Tree
 |  |
