@@ -251,11 +251,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0463-island-perimeter](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0463-island-perimeter](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0463-island-perimeter) |
 ## Counting
 |  |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0341-flatten-nested-list-iterator) |
 ## Iterator
 |  |
@@ -351,4 +354,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
