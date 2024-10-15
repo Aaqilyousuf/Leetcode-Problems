@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3195-separate-black-and-white-balls](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3379-score-of-a-string](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3379-score-of-a-string) |
 | [3533-snake-in-matrix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3533-snake-in-matrix) |
 ## Simulation
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3195-separate-black-and-white-balls](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3195-separate-black-and-white-balls](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
 ## Brainteaser
 |  |
 | ------- |
