@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0883-car-fleet) |
 | [0898-transpose-matrix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0906-walking-robot-simulation) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1325-path-with-maximum-probability](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0906-walking-robot-simulation](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0906-walking-robot-simulation) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Sliding Window
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0341-flatten-nested-list-iterator](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Iterator
 |  |
 | ------- |
@@ -394,11 +397,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
