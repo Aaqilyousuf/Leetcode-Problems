@@ -10,7 +10,6 @@ class Solution:
     def postorder(self, root: 'Node') -> List[int]:
         res = []
         def dfs(node):
-
             if not node:
                 return None
             for child in node.children:
