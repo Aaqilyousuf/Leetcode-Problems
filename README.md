@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Counting
 |  |
 | ------- |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Iterator
 |  |
 | ------- |
@@ -457,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
