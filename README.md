@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-time-needed-to-buy-tickets](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2411-spiral-matrix-iv](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3533-snake-in-matrix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3533-snake-in-matrix) |
 ## Array
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-time-needed-to-buy-tickets](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2411-spiral-matrix-iv](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [1022-unique-paths-iii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1022-unique-paths-iii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1582-design-browser-history](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1582-design-browser-history) |
+| [2411-spiral-matrix-iv](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
