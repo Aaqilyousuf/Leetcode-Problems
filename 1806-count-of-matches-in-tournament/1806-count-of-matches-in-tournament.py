@@ -1,10 +1,11 @@
 class Solution:
     def numberOfMatches(self, n: int) -> int:
-        ans = 0
+        number_of_matches = 0
         while n!=1:
-            ans+=n//2
-            if n%2 != 0:
-                n = (n-1)/2 + 1
+            if n%2==0:
+                number_of_matches+=n//2
+                n=n//2
             else:
-                n = n//2
-        return int(ans)
+                number_of_matches+=(n-1)//2
+                n=((n-1)//2)+1
+        return number_of_matches
