@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1582-design-browser-history) |
 | [1635-number-of-good-pairs](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
+| [1755-defuse-the-bomb](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [1755-defuse-the-bomb](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 ## Stack
 |  |
 | ------- |
