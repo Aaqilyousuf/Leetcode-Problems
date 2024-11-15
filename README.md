@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0283-move-zeroes) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
