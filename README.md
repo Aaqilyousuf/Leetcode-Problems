@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0777-toeplitz-matrix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0898-transpose-matrix) |
