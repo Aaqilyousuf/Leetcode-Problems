@@ -5,26 +5,27 @@ class Solution:
 
         rows = len(grid)
         cols = len(grid[0])
-        visit = set()
         island = 0
 
-
-        def dfs(r, c):
-            q = collections.deque()
-            visit.add((r,c))
-            q.append((r,c))
-            while q:
-                row, col = q.popleft()
-                directions = [[1, 0], [-1, 0], [0, 1],[0, -1]]
-                for dr, dc in directions:
-                    r, c = row+dr, col+dc
-                    if r in range(rows) and c in range(cols) and grid[r][c] == "1" and (r,c) not in visit:
-                        q.append((r,c))
-                        visit.add((r,c))
-
+        def dfs(grid, r, c):
+            n = len(grid)
+            m = len(grid[0])
+            if r<0 or c<0:
+                return
+            if r>=n or c>=m:
+                return
+            if grid[r][c]=="0":
+                return
+            grid[r][c] = "0"
+            dfs(grid, r-1, c)
+            dfs(grid, r+1, c)
+            dfs(grid, r, c-1)
+            dfs(grid, r, c+1)
+   
         for r in range(rows):
             for c in range(cols):
-                if grid[r][c] == "1" and (r,c) not in visit:
-                    dfs(r,c)
-                    island += 1
+                if grid[r][c] == "1":
+                     island += 1
+                     dfs(grid, r,c)
+                   
         return island
