@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
+| [1916-find-center-of-star-graph](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1916-find-center-of-star-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
