@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0078-subsets) |
 | [0787-sliding-puzzle](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0787-sliding-puzzle) |
+| [0813-all-paths-from-source-to-target](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1022-unique-paths-iii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [1039-find-the-town-judge](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1916-find-center-of-star-graph](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1916-find-center-of-star-graph) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0813-all-paths-from-source-to-target](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0933-increasing-order-search-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0787-sliding-puzzle](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0787-sliding-puzzle) |
+| [0813-all-paths-from-source-to-target](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
