@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0046-permutations) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
