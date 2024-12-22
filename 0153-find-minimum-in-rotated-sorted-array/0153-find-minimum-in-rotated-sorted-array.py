@@ -10,8 +10,8 @@ class Solution:
             m = (l+r)//2
             res = min(res, nums[m])
             if nums[m] >= nums[l]:
-                l += 1
+                l  = m+1
             else:
-                r -= 1
+                r  = m-1
         return res
 
