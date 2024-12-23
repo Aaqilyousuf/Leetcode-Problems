@@ -14,16 +14,16 @@ class Solution:
         return res
     def findPossible(self, nums, mid, k):
         s = 1
-        p = 0
+        e = 0
 
         for i in range(len(nums)):
             if nums[i] > mid:
                 return False
-            if p + nums[i] > mid:
+            if e + nums[i] > mid:
                 s += 1
-                p = nums[i]
+                e = nums[i]
             else:
-                p += nums[i]
+                e += nums[i]
         if s > k:
             return False
         return True
