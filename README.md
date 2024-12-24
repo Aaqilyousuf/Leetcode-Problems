@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1755-defuse-the-bomb](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1397-search-suggestions-system](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1397-search-suggestions-system) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String Matching
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1397-search-suggestions-system](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1397-search-suggestions-system) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Memoization
