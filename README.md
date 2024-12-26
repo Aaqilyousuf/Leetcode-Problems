@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2047-find-a-peak-element-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2047-find-a-peak-element-ii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2058-concatenation-of-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2047-find-a-peak-element-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2047-find-a-peak-element-ii) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Memoization
 |  |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [1022-unique-paths-iii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1022-unique-paths-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [2047-find-a-peak-element-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 ## Prefix Sum
