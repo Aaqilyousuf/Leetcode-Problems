@@ -5,40 +5,35 @@
 #         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        res = None
-        rev_1 = None
-        rev_2 = None
-        while l1:
-            node = l1.next
-            l1.next = rev_1
-            rev_1 = l1
-            l1 = node
-        while l2:
-            node = l2.next
-            l2.next = rev_2
-            rev_2 = l2
-            l2 = node
-        sum1 = 0
-        sum2 = 0
-        curr1, curr2 = rev_1, rev_2
-        while curr1:
-            sum1 =(sum1*10) + curr1.val
-            curr1 = curr1.next
-        while curr2:
-            sum2 =(sum2*10) + curr2.val
-            curr2 = curr2.next
-           
-        tot = sum1+sum2
-        if tot == 0:
-            return ListNode(0)
-        totli = list(str(tot))
-        for n in totli:
-            node = ListNode(int(n))
-            node.next = res
-            res = node
-        return res
+        if not l1 and not l2:
+            return 
+        if not l1:
+            return l2
+        if not l2:
+            return l1
+        cur1 = l1
+        cur2 = l2
+        list1 = []
+        list2 = []
+        while cur1:
+            list1.append(cur1.val)
+            cur1 = cur1.next
+        while cur2:
+            list2.append(cur2.val)
+            cur2 = cur2.next
+        num1 = int(''.join(map(str, list1[::-1])))
+        num2 = int(''.join(map(str, list2[::-1])))
+        result = num1 + num2        
+        resL = list(map(int, str(result)[::-1]))
+        finalRes = self.insert(resL)
+        return finalRes
+    def insert(self, resList):
+        head = ListNode(resList[0])
+        cur = head
+        for i in range(1, len(resList)):
+            newNode = ListNode(resList[i])
+            cur.next = newNode
+            cur = newNode
+        return head
 
 
-
-        
-        
