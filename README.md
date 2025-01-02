@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2580-circular-sentence](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2580-circular-sentence) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-spiral-matrix-iv](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
