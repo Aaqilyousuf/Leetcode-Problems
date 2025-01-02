@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0328-odd-even-linked-list) |
 | [0859-design-circular-deque](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
