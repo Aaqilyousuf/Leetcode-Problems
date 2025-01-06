@@ -1,35 +1,19 @@
 class Solution {
     public int[] minOperations(String boxes) {
-        int n = boxes.length();
-        int sum = 0;
-        int rightOnes = 0;
-        
-        // Calculate initial sum and count of '1's to the right
-        for (int i = 0; i < n; ++i) {
-            if (boxes.charAt(i) == '1') {
-                sum += i;
-                rightOnes++;
+        ArrayList<Integer> list = new ArrayList<>();
+        for(int i=0; i<boxes.length(); i++){
+            if(boxes.charAt(i)=='1'){
+                list.add(i);
             }
         }
-        
-        // Calculate moves per position
-        int[] res = new int[n];
-        int prefixSum = 0;
-        int leftOnes = 0;
-        
-        for (int i = 0; i < n; ++i) {
-            int moves = sum + prefixSum;
-            res[i] = moves;
-            
-            // Update both sum and prefixSum
-            if (boxes.charAt(i) == '1') {
-                leftOnes++;
-                rightOnes--;
+        int [] arr = new int[boxes.length()];
+        for(int i=0; i<boxes.length(); i++){
+            int sum =0;
+            for(int num : list){
+                sum += Math.abs(i-num);
             }
-            prefixSum += leftOnes;
-            sum -= rightOnes;
+            arr[i] = sum;
         }
-        
-        return res;
+        return arr;
     }
 }
