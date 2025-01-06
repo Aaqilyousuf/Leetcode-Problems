@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2465-shifting-letters-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1397-search-suggestions-system](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1397-search-suggestions-system) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String Matching
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1397-search-suggestions-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Shortest Path
 |  |
 | ------- |
@@ -447,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Monotonic Stack
 |  |
@@ -543,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
 ## Brainteaser
 |  |
