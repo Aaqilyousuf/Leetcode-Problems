@@ -3,6 +3,7 @@ class Solution {
         if(s.length() < k){
             return false;
         }
+        if (s.length() == k) return true;
         int n = s.length();
         HashMap<Character, Integer> map = new HashMap<>();
         for(int i=0;i<n;i++){
