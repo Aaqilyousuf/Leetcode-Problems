@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2580-circular-sentence) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
 ## Brainteaser
