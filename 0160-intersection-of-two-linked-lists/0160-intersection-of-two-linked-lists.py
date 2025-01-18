@@ -12,4 +12,3 @@ class Solution:
             cur1 = headB if cur1==None else cur1.next
             cur2 = headA if cur2==None else cur2.next
         return cur1
-        
