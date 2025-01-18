@@ -1,19 +1,15 @@
 class Solution:
     def allPathsSourceTarget(self, graph: List[List[int]]) -> List[List[int]]:
-        # graph_map = {}
-        # for i, val in enumerate(graph):
-        #     graph_map[i] = val
+        if not graph:
+            return []
         target = len(graph) - 1
-        res = []
+        t = len(graph) - 1
         stack = [(0, [0])]
-
+        res = []
         while stack:
             node, path = stack.pop()
-
             if node == target:
                 res.append(path)
-
-            for neighbor in graph[node]:
-                stack.append((neighbor, path+[neighbor]))
+            for n in graph[node]:
+                stack.append((n, path+[n]))
         return res
-        
