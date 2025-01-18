@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0057-insert-interval) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
