@@ -843,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0176-second-highest-salary) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Merge Sort
 |  |
