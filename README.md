@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1582-design-browser-history](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1582-design-browser-history) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Stack
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
 |  |
 | ------- |
