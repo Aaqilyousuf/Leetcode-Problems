@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1397-search-suggestions-system](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1397-search-suggestions-system) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1039-find-the-town-judge) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
