@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0678-valid-parenthesis-string](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1755-defuse-the-bomb](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Stack
