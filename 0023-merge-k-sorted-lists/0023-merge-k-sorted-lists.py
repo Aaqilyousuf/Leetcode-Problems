@@ -5,23 +5,20 @@
 #         self.next = next
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
-        if not lists or len(lists) == 0:
+        #optimal divide and conqure
+        if not lists:
             return None
-        
         while len(lists) > 1:
-            mergedList = []
+            mergeLists = []
             for i in range(0, len(lists), 2):
                 l1 = lists[i]
                 l2 = lists[i+1] if (i+1) < len(lists) else None
-                mergedList.append(self.mergeList(l1, l2))
-            lists = mergedList
-        return lists[0]
-
-
-    def mergeList(self, l1, l2):
+                mergeLists.append(self.merge(l1, l2))
+            lists = mergeLists
+        return lists[0]     
+    def merge(self, l1, l2):
         dummy = ListNode()
         tail = dummy
-
         while l1 and l2:
             if l1.val < l2.val:
                 tail.next = l1
@@ -32,7 +29,6 @@ class Solution:
             tail = tail.next
         if l1:
             tail.next = l1
-        elif l2:
+        if l2:
             tail.next = l2
-        
         return dummy.next
