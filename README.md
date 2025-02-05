@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0621-task-scheduler) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1325-path-with-maximum-probability](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1397-search-suggestions-system) |
@@ -780,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0355-design-twitter](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0460-lfu-cache) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0937-online-stock-span) |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1582-design-browser-history) |
@@ -839,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
@@ -879,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
@@ -905,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0933-increasing-order-search-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 ## Database
