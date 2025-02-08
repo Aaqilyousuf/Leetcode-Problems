@@ -1,13 +1,16 @@
 class Solution:
     def rearrangeArray(self, nums: List[int]) -> List[int]:
-        res = [0] * len(nums)
         i = 0
         j = 1
+        n = len(nums)
+        res = [0] * len(nums)
         for num in nums:
-            if num > 0:
-                res[i] = num
-                i += 2
+            if num>0:
+                if i<n:
+                    res[i] = num
+                    i+=2
             else:
-                res[j] = num
-                j += 2
+                if j<n:
+                    res[j] = num
+                    j += 2
         return res
