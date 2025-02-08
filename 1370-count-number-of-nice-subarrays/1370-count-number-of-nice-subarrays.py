@@ -1,5 +1,6 @@
 class Solution:
     def numberOfSubarrays(self, nums: List[int], k: int) -> int:
+        #this problem is exact similar to binary subarray with sum
         prefix_count = defaultdict(int)
         prefix_count[0] = 1
         cur_sum = 0
