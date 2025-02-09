@@ -11,8 +11,7 @@ class Solution:
             return None
 
         queue = deque([root])
-        isFirst = True
-
+    
         while queue:
             lc = len(queue)
             for _ in range(lc):
@@ -27,6 +26,4 @@ class Solution:
                     queue.append(node.right)
         return root
                 
-        return root
-
-                
+        
