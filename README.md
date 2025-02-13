@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0242-valid-anagram) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0787-sliding-puzzle](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0787-sliding-puzzle) |
 | [0813-all-paths-from-source-to-target](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1022-unique-paths-iii) |
