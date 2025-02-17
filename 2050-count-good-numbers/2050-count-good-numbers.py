@@ -1,12 +1,13 @@
 class Solution:
     def countGoodNumbers(self, n: int) -> int:
         MOD = 10**9 + 7
-        even_position = (n+1)//2
-        odd_position = n//2
-
-        # for _ in range(even_position):
-        #     res = (res*5)%MOD
-        # for _ in range(odd_position):
-        #     res = (res*4)%MOD
-        # return res
-        return (pow(5, even_position, MOD) * pow(4, odd_position, MOD)) % MOD
+        count = 1
+        if n%2==0:
+            count *= pow(5, (n//2), MOD)
+            count *= pow(4, (n//2), MOD)
+            count %= MOD
+        else:
+            count *= pow(5, (n+1)//2, MOD)
+            count *= pow(4, (n//2), MOD)
+            count %= MOD
+        return count
