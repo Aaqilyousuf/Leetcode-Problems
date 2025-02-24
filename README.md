@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [0974-reorder-data-in-log-files](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0974-reorder-data-in-log-files) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1014-k-closest-points-to-origin](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0787-sliding-puzzle](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0787-sliding-puzzle) |
 | [0943-sum-of-subarray-minimums](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
+| [0967-minimum-falling-path-sum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0777-toeplitz-matrix) |
 | [0787-sliding-puzzle](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0787-sliding-puzzle) |
 | [0898-transpose-matrix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0898-transpose-matrix) |
+| [0967-minimum-falling-path-sum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
