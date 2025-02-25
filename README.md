@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1397-search-suggestions-system](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1397-search-suggestions-system) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
 |  |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
