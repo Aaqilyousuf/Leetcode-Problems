@@ -1,18 +1,15 @@
 class Solution:
     def smallestDivisor(self, nums: List[int], threshold: int) -> int:
-        #this problem is similar as koko eating bananas
-        low = 1
-        high = max(nums)
+        low, high = 1, max(nums)
         res = high
         while low<=high:
-            divisor = (low+high)//2
-            divisorSum = 0
-            for i in nums:
-                divisorSum += math.ceil(i/divisor)
-            if divisorSum <= threshold:
-                res = min(res, divisor)
-                high = divisor - 1
+            mid = (low+high)//2
+            check = 0
+            for n in nums:
+                check += math.ceil(n/mid)
+            if check<=threshold:
+                res = min(res, mid)
+                high = mid-1
             else:
-                low = divisor + 1
+                low = mid+1
         return res
-
