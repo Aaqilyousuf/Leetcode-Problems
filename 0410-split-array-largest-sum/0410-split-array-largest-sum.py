@@ -14,10 +14,12 @@ class Solution:
             return True
         l = max(nums)
         r = sum(nums)
+        ans = -1
         while l<=r:
             m = l+(r-l)//2
             if helper(nums, m):
+                ans = m
                 r = m-1
             else:
                 l = m+1
-        return l
+        return ans
