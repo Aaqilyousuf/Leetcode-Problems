@@ -11,4 +11,4 @@ class Solution:
         res = []
         while minHeap:
             res.append(heapq.heappop(minHeap)[1])
-        return res[::-1]
+        return res
