@@ -1,7 +1,7 @@
 class Solution:
     def uniquePathsWithObstacles(self, obstacleGrid: List[List[int]]) -> int:
         row, col = len(obstacleGrid), len(obstacleGrid[0])
-        if obstacleGrid[0][0] == 1 or obstacleGrid[-1][-1]:
+        if obstacleGrid[0][0] == 1 or obstacleGrid[-1][-1]==1:
             return 0
         memo = {}
         def backtrack(x, y):
