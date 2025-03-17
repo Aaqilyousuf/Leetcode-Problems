@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2792-neighboring-bitwise-xor](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2792-neighboring-bitwise-xor) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sliding Window
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
 |  |
