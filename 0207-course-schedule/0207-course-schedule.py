@@ -5,7 +5,7 @@ class Solution:
         for c, pre in prerequisites:
             graph[pre].append(c)
         visited = set()
-        stack = []
+        # stack = []
         cycle = set()
         
         def dfs(node):
@@ -19,7 +19,7 @@ class Solution:
                     return False
             cycle.remove(node)
             visited.add(node)
-            stack.append(node)
+            # stack.append(node)
             return True
 
 
