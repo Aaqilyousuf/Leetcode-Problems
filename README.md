@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
@@ -834,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0207-course-schedule) |
