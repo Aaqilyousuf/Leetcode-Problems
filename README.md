@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1753-path-with-minimum-effort](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
+| [1753-path-with-minimum-effort](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1753-path-with-minimum-effort) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2047-find-a-peak-element-ii) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1397-search-suggestions-system) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1753-path-with-minimum-effort](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1753-path-with-minimum-effort) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Shortest Path
@@ -727,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1753-path-with-minimum-effort](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1876-map-of-highest-peak) |
 | [2047-find-a-peak-element-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -834,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1753-path-with-minimum-effort](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -872,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1753-path-with-minimum-effort](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -1175,6 +1181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Rolling Hash
 |  |
