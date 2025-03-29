@@ -1,5 +1,6 @@
 class Solution:
     def minimumEffortPath(self, heights: List[List[int]]) -> int:
+        #djikstras algo
         rows, cols = len(heights), len(heights[0])
         directions = [(1, 0), (0, 1), (-1, 0), (0, -1)]  
 
@@ -20,6 +21,4 @@ class Solution:
                         distance[nr][nc] = newEffort
                         heappush(minHeap, (nr, nc, newEffort))
         return -1
-
-            
         
