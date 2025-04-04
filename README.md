@@ -1192,6 +1192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0197-rising-temperature](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1153-product-sales-analysis-i) |
