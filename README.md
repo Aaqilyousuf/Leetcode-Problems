@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0455-assign-cookies) |
