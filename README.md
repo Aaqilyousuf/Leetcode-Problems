@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2465-shifting-letters-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -969,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2509-minimize-xor) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -1234,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Bitmask
 |  |
 | ------- |
