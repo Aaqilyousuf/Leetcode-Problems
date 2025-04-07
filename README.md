@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3533-snake-in-matrix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3533-snake-in-matrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Monotonic Stack
 |  |
 | ------- |
