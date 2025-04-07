@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2465-shifting-letters-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2580-circular-sentence](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2465-shifting-letters-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2685-first-completely-painted-row-or-column) |
@@ -788,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Monotonic Stack
