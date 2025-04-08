@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2556-convert-the-temperature) |
+| [2571-find-the-pivot-integer](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2571-find-the-pivot-integer) |
 | [2752-sum-multiples](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -798,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2571-find-the-pivot-integer](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2571-find-the-pivot-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
