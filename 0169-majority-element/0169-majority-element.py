@@ -7,4 +7,4 @@ class Solution:
             hm[n] = 1 + hm.get(n, 0)
             if hm[n] > nu//2:
                 maxRes = max(maxRes, n)
-        return maxRes
+        return maxRes if maxRes != float("-inf") else -1
