@@ -3,16 +3,18 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
+        ROW = len(matrix)
+        COL = len(matrix[0])
         row = []
         col = []
-        for i in range(len(matrix)):
-            for j in range(len(matrix[0])):
+        for i in range(ROW):
+            for j in range(COL):
                 if matrix[i][j] == 0:
                     row.append(i)
                     col.append(j)
         for i in row:
-            for j in range(len(matrix[0])):
+            for j in range(COL):
                 matrix[i][j] = 0
         for j in col:
-            for i in range(len(matrix)):
+            for i in range(ROW):
                 matrix[i][j] = 0
