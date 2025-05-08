@@ -8,9 +8,8 @@ class Solution:
             cmap[s[r]] = 1 + cmap.get(s[r], 0)
             maxFreq = max(maxFreq, cmap[s[r]])
 
-            while (r-l+1) - maxFreq > k:
+            while (r-l+1) - maxFreq > k: #window size - maxFreq, No of character that need to be replaced > K replacement
                 cmap[s[l]] -= 1
                 l += 1
-
             res = max(res, r-l+1)
         return res
