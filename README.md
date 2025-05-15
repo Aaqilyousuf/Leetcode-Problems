@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2792-neighboring-bitwise-xor](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2792-neighboring-bitwise-xor) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -1012,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2509-minimize-xor) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
 ## Brainteaser
