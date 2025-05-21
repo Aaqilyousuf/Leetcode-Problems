@@ -4,10 +4,10 @@ class Solution:
 
         while low<=high:
             mid = (low+high) // 2
-            currRow = mid*(mid+1) // 2
-            if currRow == n:
+            conis_needed = mid*(mid+1) // 2
+            if conis_needed == n:
                 return mid
-            if currRow < n:
+            if conis_needed < n:
                 low = mid + 1
             else:
                 high = mid - 1
