@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0792-binary-search) |
