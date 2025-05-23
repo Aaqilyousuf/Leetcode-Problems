@@ -26,4 +26,3 @@ class Solution:
         if noBouqets >= m:
             return True
         return False
-    
