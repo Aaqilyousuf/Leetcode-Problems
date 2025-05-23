@@ -3,13 +3,15 @@ class Solution:
         low, high = 1, max(piles)
         res = high
         while low<=high:
-            k = low+(high-low)//2
-            hrs = 0
+            mid = (low+high) // 2
+            k = 0
             for p in piles:
-                hrs += math.ceil(p/k)
-            if hrs<=h:
-                res = min(res, k)
-                high = k - 1
+                k += math.ceil(p/mid)
+            if k <= h:
+                res = min(res, mid)
+                high = mid - 1
             else:
-                low = k+1
+                low = mid + 1
         return res
+
+        
