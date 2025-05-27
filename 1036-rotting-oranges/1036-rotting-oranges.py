@@ -20,4 +20,3 @@ class Solution:
                     fresh -= 1
                     queue.append((nr,nc,minutes+1))
         return minutes if fresh==0 else -1
-
