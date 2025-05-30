@@ -7,17 +7,11 @@
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
         #using iterative inorder traversal
-        if not root:
-            return False
-        stack = []
-        prev = None
-        while stack or root:
-            while root:
-                stack.append(root)
-                root = root.left
-            root = stack.pop()
-            if prev != None and prev>=root.val:
+        def validate(node, low, high):
+            if not node:
+                return True
+            if not (low < node.val < high):
                 return False
-            prev = root.val
-            root = root.right
-        return True
+            
+            return validate(node.left, low, node.val) and validate(node.right, node.val, high)
+        return validate(root, float('-inf'), float('inf'))
