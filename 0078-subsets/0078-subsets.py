@@ -1,14 +1,13 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
+        n = len(nums)
+        tot = 1 << n
         res = []
-        sol = []
-        self.backtrack(0, nums, res, sol)
+
+        for mask in range(tot):
+            sub = []
+            for i in range(n):
+                if mask & (1 << i):
+                    sub.append(nums[i])
+            res.append(sub)
         return res
-    def backtrack(self, i , nums, res, sol):
-        if i == len(nums):
-            res.append(sol[:])
-            return
-        self.backtrack(i+1, nums, res, sol)
-        sol.append(nums[i])
-        self.backtrack(i+1, nums, res, sol)
-        sol.pop() #backtrack
