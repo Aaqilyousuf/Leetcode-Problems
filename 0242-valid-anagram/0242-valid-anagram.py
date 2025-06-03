@@ -10,3 +10,7 @@ class Solution:
         if smap == tmap:
             return True
         return False
+        # if set(s) == set(t):
+        #     return True
+        # else:
+        #     return False
