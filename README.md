@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2465-shifting-letters-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
