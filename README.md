@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1397-search-suggestions-system](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1397-search-suggestions-system) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1582-design-browser-history) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
