@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1806-count-of-matches-in-tournament](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1947-number-of-different-subsequences-gcds](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1947-number-of-different-subsequences-gcds) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1940-maximum-xor-for-each-query) |
+| [1947-number-of-different-subsequences-gcds](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1947-number-of-different-subsequences-gcds) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -1041,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1947-number-of-different-subsequences-gcds](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1947-number-of-different-subsequences-gcds) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1250,6 +1253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0258-add-digits) |
+| [1947-number-of-different-subsequences-gcds](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1947-number-of-different-subsequences-gcds) |
 | [2491-smallest-even-multiple](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2491-smallest-even-multiple) |
 ## Binary Tree
 |  |
