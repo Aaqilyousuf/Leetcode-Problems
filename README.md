@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -728,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1022-unique-paths-iii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Binary Search
 |  |
 | ------- |
@@ -1060,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1947-number-of-different-subsequences-gcds](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1947-number-of-different-subsequences-gcds) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1089,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -1388,6 +1392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Bitmask
