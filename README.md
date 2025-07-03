@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3567-convert-date-to-binary](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3533-snake-in-matrix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3533-snake-in-matrix) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
 | ------- |
@@ -947,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2792-neighboring-bitwise-xor) |
 | [3394-minimum-array-end](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3394-minimum-array-end) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1167,6 +1170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2050-count-good-numbers) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
 | ------- |
