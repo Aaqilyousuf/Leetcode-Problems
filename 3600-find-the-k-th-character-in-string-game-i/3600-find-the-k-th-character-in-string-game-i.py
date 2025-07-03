@@ -12,7 +12,7 @@ class Solution:
                 i = 0
             elif i<len(q):
                 i += 1
-            if len(q)//2 >= k:
+            if len(q) >= k:
                 break
         actualWord = "".join(q)
         print(actualWord)
