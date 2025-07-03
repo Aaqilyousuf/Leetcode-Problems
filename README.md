@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3533-snake-in-matrix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3533-snake-in-matrix) |
 | [3567-convert-date-to-binary](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3567-convert-date-to-binary) |
 | [3617-find-the-original-typed-string-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3618-find-the-original-typed-string-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -900,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-find-the-pivot-integer](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2571-find-the-pivot-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3639-zero-array-transformation-i) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Monotonic Stack
