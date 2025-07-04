@@ -1,10 +1,12 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        hm = {}
-        nu = len(nums)
-        maxRes = float("-inf")
+        #O(1) space
+        res = majority = 0
+        
         for n in nums:
-            hm[n] = 1 + hm.get(n, 0)
-            if hm[n] > nu//2:
-                maxRes = max(maxRes, n)
-        return maxRes if maxRes != float("-inf") else -1
+            if majority == 0:
+                res = n
+            
+            majority += 1 if n == res else -1
+        
+        return res
