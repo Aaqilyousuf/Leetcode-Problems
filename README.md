@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-convert-date-to-binary](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
@@ -952,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2792-neighboring-bitwise-xor) |
 | [3394-minimum-array-end](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3394-minimum-array-end) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1174,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2050-count-good-numbers) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Design
 |  |
 | ------- |
