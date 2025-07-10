@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Two Pointers
@@ -1136,6 +1137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Brainteaser
 |  |
@@ -1434,6 +1436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Bitmask
 |  |
 | ------- |
