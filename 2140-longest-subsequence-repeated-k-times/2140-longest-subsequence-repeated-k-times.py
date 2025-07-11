@@ -25,7 +25,7 @@ class Solution:
             curr = q.popleft()
             nxt = curr
             for i in range(ord('a'), ord('z')+1, 1):
-                if freq[i - ord('a')] < 2:
+                if freq[i - ord('a')] < k:
                     continue
                 nxt += chr(i)
                 if countNoSubSeq(nxt, s) >= k:
