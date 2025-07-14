@@ -8,8 +8,8 @@ class Solution:
                 if i=="1":
                     cnt += 1
             res.append(cnt)
-        res = [0]
-        for i in range(1, n+1):
+        res = []
+        for i in range(n+1):
             helper(i)
         return res
      
