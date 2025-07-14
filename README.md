@@ -715,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
@@ -969,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0691-stickers-to-spell-word](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0691-stickers-to-spell-word) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0795-k-th-symbol-in-grammar) |
