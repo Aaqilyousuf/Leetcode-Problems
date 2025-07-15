@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
+| [1304-longest-happy-string](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -863,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
+| [1304-longest-happy-string](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -1153,6 +1155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1304-longest-happy-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
