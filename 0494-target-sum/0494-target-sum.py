@@ -25,4 +25,4 @@ class Solution:
             memo[(i, tot)] = (backtrack(i+1, tot+nums[i]) + backtrack(i+1, tot-nums[i]))
             return memo[(i, tot)]
         return backtrack(0, 0)
-        
+       
