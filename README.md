@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -791,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0691-stickers-to-spell-word](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0691-stickers-to-spell-word) |
 | [0787-sliding-puzzle](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0787-sliding-puzzle) |
@@ -1050,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0341-flatten-nested-list-iterator) |
@@ -1336,6 +1339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0341-flatten-nested-list-iterator) |
@@ -1404,6 +1408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
