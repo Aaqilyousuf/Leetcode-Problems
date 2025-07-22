@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0383-ransom-note](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0415-add-strings) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0355-design-twitter) |
+| [0383-ransom-note](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -1138,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
