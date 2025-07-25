@@ -1,0 +1,18 @@
+# Write your MySQL query statement below
+-- SELECT * 
+-- FROM PERSON
+-- WHERE ID IN (
+--     SELECT MIN(ID)
+--     FROM PERSON
+--     GROUP BY EMAIL
+-- );
+-- SELECT *
+-- FROM PERSON P
+-- WHERE NOT EXISTS(
+--     SELECT 1
+--     FROM PERSON P2
+--     WHERE P2.EMAIL = P.EMAIL AND P2.ID < P.ID
+-- );
+DELETE P1 FROM PERSON P1
+JOIN PERSON P2
+ON P1.EMAIL = P2.EMAIL AND P2.ID<P1.ID;
