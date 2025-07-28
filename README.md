@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2227-sum-of-subarray-ranges](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2227-sum-of-subarray-ranges) |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Binary Search
 |  |
 | ------- |
@@ -1039,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -1535,6 +1538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
