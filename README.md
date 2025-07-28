@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
+| [0187-repeated-dna-sequences](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -1025,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0231-power-of-two) |
@@ -1574,11 +1578,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
