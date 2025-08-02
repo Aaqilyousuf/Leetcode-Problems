@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2689-rearranging-fruits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2714-left-and-right-sum-differences](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2689-rearranging-fruits](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3321-type-of-triangle](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2479-meeting-rooms-iii) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2689-rearranging-fruits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1231,6 +1234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2509-minimize-xor) |
+| [2689-rearranging-fruits](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2689-rearranging-fruits) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
