@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-time-needed-to-buy-tickets](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2227-sum-of-subarray-ranges](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2227-sum-of-subarray-ranges) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -872,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2047-find-a-peak-element-ii) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Memoization
@@ -1002,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2358-number-of-ways-to-split-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
