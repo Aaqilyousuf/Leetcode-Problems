@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0728-self-dividing-numbers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0795-k-th-symbol-in-grammar) |
+| [0826-soup-servings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
@@ -794,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0826-soup-servings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0967-minimum-falling-path-sum) |
@@ -1640,4 +1642,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
