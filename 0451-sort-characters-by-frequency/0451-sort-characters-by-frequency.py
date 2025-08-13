@@ -1,13 +1,13 @@
 class Solution:
     def frequencySort(self, s: str) -> str:
-        map = defaultdict(int)
-        for i in s:
-            map[i] += 1
-        freq_list = []
-        for k, v in map.items():
-            freq_list.append((k, v))
-        sorted_freq = sorted(freq_list, key=lambda item:item[1], reverse=True)
+        freqMap = defaultdict(int)
+        for ch in s:
+            freqMap[ch] += 1
+        freqList = []
+        for k, v in freqMap.items():
+            freqList.append((k, v))
+        sortedFreq = sorted(freqList, key=lambda x:x[1], reverse=True)
         res = ""
-        for char, freq in sorted_freq:
-            res += char*freq
+        for k, v in sortedFreq:
+            res += k*v
         return res
