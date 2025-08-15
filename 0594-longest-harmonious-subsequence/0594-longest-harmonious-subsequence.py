@@ -1,6 +1,6 @@
 class Solution:
     def findLHS(self, nums: List[int]) -> int:
-        #using sort
+        #using sort O(nlogn) and O(1)
         # nums.sort()
         # j = 0
         # maxLen = 0
