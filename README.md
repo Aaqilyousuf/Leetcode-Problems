@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
+| [0679-24-game](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0679-24-game) |
 | [0728-self-dividing-numbers](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0728-self-dividing-numbers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0795-k-th-symbol-in-grammar) |
 | [0826-soup-servings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0826-soup-servings) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0654-maximum-binary-tree) |
+| [0679-24-game](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0691-stickers-to-spell-word](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0691-stickers-to-spell-word) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -846,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0679-24-game) |
 | [0691-stickers-to-spell-word](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0691-stickers-to-spell-word) |
 | [0787-sliding-puzzle](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0787-sliding-puzzle) |
 | [0813-all-paths-from-source-to-target](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0813-all-paths-from-source-to-target) |
