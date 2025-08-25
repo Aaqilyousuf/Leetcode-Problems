@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0415-add-strings) |
+| [0498-diagonal-traverse](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0682-baseball-game](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0735-asteroid-collision) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -997,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0777-toeplitz-matrix) |
