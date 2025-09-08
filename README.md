@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
