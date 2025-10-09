@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/1582-design-browser-history) |
