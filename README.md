@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0377-combination-sum-iv) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0414-third-maximum-number) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
@@ -897,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -959,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0355-design-twitter) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0621-task-scheduler) |
@@ -1007,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/Aaqilyousuf/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
