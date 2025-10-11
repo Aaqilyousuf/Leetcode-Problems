@@ -1,8 +1,10 @@
 class Solution:
     def transpose(self, matrix: List[List[int]]) -> List[List[int]]:
-        res = []
         l = len(matrix[0])
+        res = []
         for i in range(l):
-            res.append([m[i] for m in matrix])
+            dum = []
+            for m in matrix:
+                dum.append(m[i])
+            res.append(dum)
         return res
-        
