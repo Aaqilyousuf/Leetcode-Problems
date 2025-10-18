@@ -5,13 +5,15 @@ class Solution:
         'C': 100, 'D': 500, 'M': 1000
         }
         total = 0
-        prev = 0
-        for char in reversed(s):
-            value = roman_to_int[char]
-
-            if value < prev:
-                total -= value
-            else:
-                total += value
-            prev = value
+        i = 0
+        while i<len(s):
+            curVal = roman_to_int[s[i]]
+            if i+1<len(s):
+                nextVal = roman_to_int[s[i+1]]
+                if nextVal > curVal:
+                    total += (nextVal - curVal)
+                    i += 2 #skip the next val also
+                    continue
+            total += curVal
+            i += 1
         return total
